@@ -8,7 +8,7 @@ the LeetCode site.
 If interested in my comments I invite you to visit the following
 post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/02/05/dot-product-of-two-sparse-vectors-in-java/
 
 Remember that the best way to learn is to read and experiemnt.
 Enjoy;
